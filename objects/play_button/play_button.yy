@@ -4,19 +4,9 @@
     "mvc": "1.0",
     "name": "play_button",
     "eventList": [
-        {
-            "id": "3126e6af-ef5b-4bf3-8e49-1f0587b2680b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "73a37c6c-e534-408a-a4ad-e322d4433f6d"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -46,7 +36,6 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
     "solid": false,
     "spriteId": "d2cb94f5-3e48-4631-91fd-67bc01175950",
     "visible": true

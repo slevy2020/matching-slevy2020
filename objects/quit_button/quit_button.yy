@@ -4,19 +4,9 @@
     "mvc": "1.0",
     "name": "quit_button",
     "eventList": [
-        {
-            "id": "27da5224-2366-41d1-9bdc-d99f8b8ec973",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "58248905-8a38-4d73-b2e8-3936813eee75"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -46,7 +36,6 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
     "solid": false,
     "spriteId": "db27995b-0441-4b8d-8c88-f77c1689aa78",
     "visible": true
