@@ -30,5 +30,10 @@ c = instance_create_layer(566, 547, "Instances", card);
 c.card_index = 5;
 c = instance_create_layer(738, 547, "Instances", card);
 c.card_index = 3;
-
+//initialize variables to track picks
+global.num_picked = 0;	//number of player picks
+global.first_pick = 0;	//pointer to the first pick
+global.second_pick = 0;	//pointer to the second pick
+//initialize win boolean
+has_won = false;
 
