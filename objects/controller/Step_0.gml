@@ -27,6 +27,7 @@ if (global.num_picked == 2){
 //check for win condition
 if (score = 6 and not has_won){
 	alarm[0] = 60;
+	game_timer += 60;
 	has_won = true;
 	show_debug_message("executed");
 }
