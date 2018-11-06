@@ -19,6 +19,7 @@ if (global.num_picked == 2){
 		global.num_picked = 0;
 	}else{
 		//no match
+		card.alarm[0] = 60;
 		show_debug_message("no match");
 		//reset num_picked (important!)
 		global.num_picked = 0;

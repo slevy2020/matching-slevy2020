@@ -1,7 +1,7 @@
 //turn selected card over
 image_index = card_index;
 //set alarm to turn it back
-alarm[0] = 60;
+//alarm[0] = 60;
 //if this is the second pick
 if (global.num_picked == 1) and not (id == global.first_pick) {
 	global.second_pick = id;	//store instance number
