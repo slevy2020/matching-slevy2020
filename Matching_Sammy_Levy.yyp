@@ -514,6 +514,25 @@
             }
         },
         {
+            "Key": "b268f2d1-151f-4c88-8bed-f9783c584b67",
+            "Value": {
+                "id": "38af503a-d202-4f25-8fb2-9bd7b82d7612",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/end_room_controller\/end_room_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bdb42ef8-81c8-4b1e-9296-63f5202b4640",
             "Value": {
                 "id": "8e0e25dd-5179-446a-97bb-4bfdae68c2b0",
@@ -682,6 +701,25 @@
                 ],
                 "resourcePath": "sprites\/spr_quit\/spr_quit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e80ea031-c380-451e-bb33-75da120b2d5f",
+            "Value": {
+                "id": "97d26e13-81af-4192-96bc-f869eef75cc6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/font_end\/font_end.yy",
+                "resourceType": "GMFont"
             }
         },
         {
